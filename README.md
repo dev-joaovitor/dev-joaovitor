@@ -27,10 +27,5 @@ I'm a Full-stack developer, 1 year of Node/React experience and learning Java/An
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-joaovitor&layout=compact&bg_color=000&border_color=3a3791&title_color=6560f7&text_color=FFF)
 
 ## My contributions
-[![Fullstack CSV App](https://github-readme-stats.vercel.app/api/pin/?username=dev-joaovitor&repo=fullstack-csv-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-joaovitor/fullstack-csv-app)
 
 [![Lab Apps](https://github-readme-stats.vercel.app/api/pin/?username=dev-joaovitor&repo=lab-apps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-joaovitor/lab-apps)
-
-[![Angular 2+ Blog]([https://github-readme-stats.vercel.app/api/pin/?username=dev-joaovitor&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-joaovitor/dio-lab-open-source](https://github.com/dev-joaovitor/angular-blog)https://github.com/dev-joaovitor/angular-blog)
-
-[![Pokedex Vanilla JS]([https://github-readme-stats.vercel.app/api/pin/?username=dev-joaovitor&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dev-joaovitor/pokedex)
