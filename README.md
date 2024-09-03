@@ -1,7 +1,7 @@
 # João Vitor
 
 ```
-I'm a Full-stack developer, 1 year of Node/React experience and learning Java/Angular, feel free to contact me!
+I'm a Sofware developer with hands-on experience in web development, feel free to contact me!
 ```
 
 ## Contact Me
