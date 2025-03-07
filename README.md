@@ -1,6 +1,6 @@
 # João Vitor
 
-I am a `Software Engineer` since 2022, `quick learner`, `dedicated` and very good at `solving problems`.
+I am a `Software Engineer` since 2022, `continuous learner` and `resilient problem solver`.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaotorvitor/)
