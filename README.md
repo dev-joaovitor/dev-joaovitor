@@ -15,6 +15,7 @@ I am a `Software Engineer` since 2022, `continuous learner` and `resilient probl
 ![Laravel](https://img.shields.io/badge/Laravel-f05340?style=for-the-badge&logo=laravel&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-457fb0?style=for-the-badge&logo=python&logoColor=ffdd57)
